@@ -46,10 +46,12 @@ This project demonstrates strong fundamentals in digital logic design and verifi
 ```bash
 iverilog -g2012 *.v tb_all_gates.sv
 vvp a.out
+gtkwave waves.vcd
+
+```
 ## Waveform (Simulation Result)
 
 ![Basic Gates Waveform](01_basic_gates/screenshots/basic_gates_waveform.png)
 
 This waveform shows correct functionality of AND/OR/NOT/NAND/NOR/XOR/XNOR gates
 across dataflow, behavioral, and structural modeling styles.
-
