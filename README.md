@@ -65,3 +65,9 @@ across dataflow, behavioral, and structural modeling styles.
 - Used exhaustive input combinations for 2-input gates.
 - Generated waveforms (VCD) using Icarus Verilog and analyzed them in GTKWave.
 - Verified that all modeling styles produce identical outputs for the same inputs.
+---
+
+## Author
+Girinath Goruva  
+Aspiring VLSI Design Verification Engineer  
+LinkedIn: https://www.linkedin.com/in/girinath-goruva-81b6553aa/
