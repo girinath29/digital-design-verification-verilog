@@ -53,7 +53,7 @@ gtkwave waves.vcd
 
 ## Waveform (Simulation Result)
 
-![Basic Gates Waveform](01_basic_gates/screenshots/basic_gates_waveform.png)
+![Basic Gates Waveform](screenshots/basic_gates_waveform.png)
 
 This waveform shows correct functionality of AND/OR/NOT/NAND/NOR/XOR/XNOR gates
 across dataflow, behavioral, and structural modeling styles.
