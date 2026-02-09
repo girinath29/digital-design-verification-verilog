@@ -48,7 +48,7 @@ iverilog -g2012 *.v tb_all_gates.sv
 vvp a.out
 ## Waveform (Simulation Result)
 
-![Basic Gates Waveform](screenshots/basic_gates_waveform.png)
+![Basic Gates Waveform](01_basic_gates/screenshots/basic_gates_waveform.png)
 
 This waveform shows correct functionality of AND/OR/NOT/NAND/NOR/XOR/XNOR gates
 across dataflow, behavioral, and structural modeling styles.
