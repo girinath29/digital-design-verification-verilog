@@ -49,9 +49,19 @@ vvp a.out
 gtkwave waves.vcd
 
 ```
+---
+
 ## Waveform (Simulation Result)
 
 ![Basic Gates Waveform](01_basic_gates/screenshots/basic_gates_waveform.png)
 
 This waveform shows correct functionality of AND/OR/NOT/NAND/NOR/XOR/XNOR gates
 across dataflow, behavioral, and structural modeling styles.
+
+---
+
+## How I Verified
+- Wrote a universal self-checking testbench to verify all gates across dataflow, behavioral, and structural modeling styles.
+- Used exhaustive input combinations for 2-input gates.
+- Generated waveforms (VCD) using Icarus Verilog and analyzed them in GTKWave.
+- Verified that all modeling styles produce identical outputs for the same inputs.
