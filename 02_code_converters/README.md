@@ -24,11 +24,6 @@ gtkwave waves_day2.vcd
 
 ---
 
-## ✅ Step 5 — Verification Approach (This Sells Your DV Skills)
-
-Add:
-
-```md
 ## Verification Methodology
 - One universal self-checking testbench verifies all converters
 - Directed corner cases: 0, 9, 10, 99, 500, max value  
@@ -39,7 +34,6 @@ Add:
   - BCD ↔ Excess-3  
   - Excess-3 ↔ Gray  
 - Waveforms generated using VCD and analyzed in GTKWave
-```
 
 ## Waveforms (Simulation Results)
 
