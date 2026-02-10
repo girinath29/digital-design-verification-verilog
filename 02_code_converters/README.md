@@ -13,13 +13,6 @@ The design supports **N-bit Binary and N-digit BCD**, allowing conversion of lar
 
 All converters are verified using a **universal self-checking SystemVerilog testbench**, and simulation results are validated with **GTKWave waveforms**.
 
-## Folder Structure
-02_code_converters/
-├── rtl/          # Parameterized RTL for all converters
-├── tb/           # Universal self-checking SystemVerilog testbench
-├── screenshots/  # GTKWave waveform images
-└── README.md
-
 ## How to Run (Icarus Verilog + GTKWave)
 
 ```bash
