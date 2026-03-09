@@ -24,3 +24,11 @@ The design supports arithmetic, logical, and comparison operations.
 iverilog rtl/*.v tb/tb_alu.v -o sim.out
 vvp sim.out
 gtkwave waves_day3.vcd
+
+## Waveform (Simulation Result)
+
+![ALU Waveform](alu_waveform.png)
+
+The waveform above shows the verification of the Mini ALU operations.
+Inputs `a`, `b`, and operation select `op` change over time, and the output `y`
+correctly reflects the corresponding ALU operation (ADD, SUB, AND, OR, XOR, etc.).
