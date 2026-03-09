@@ -27,7 +27,7 @@ gtkwave waves_day3.vcd
 
 ## Waveform (Simulation Result)
 
-![ALU Waveform](alu_waveform.png)
+![ALU Waveform](Screenshot 2026-03-09 150658.png)
 
 The waveform above shows the verification of the Mini ALU operations.
 Inputs `a`, `b`, and operation select `op` change over time, and the output `y`
