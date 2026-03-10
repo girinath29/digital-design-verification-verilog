@@ -85,7 +85,6 @@ At the end of simulation the testbench reports:
 TEST PASSED
 or
 TEST FAILED
----
 
 ## Running the Simulation
 
