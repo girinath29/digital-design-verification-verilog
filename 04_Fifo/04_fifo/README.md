@@ -112,9 +112,10 @@ gtkwave waves_day4.vcd
 
 -Correct data order
 
-FIFO full and empty conditions
+-FIFO full and empty conditions
+
 ![FIFO Waveform](FIFO_Waveform.png)
----
+
 
 ---
 ##Key Learning Outcomes
