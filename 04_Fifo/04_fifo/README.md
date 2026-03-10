@@ -80,12 +80,15 @@ Verification includes:
 - Reference FIFO model inside the testbench
 - Automatic comparison of expected vs actual outputs
 - Error reporting using `$display`
-
+---
+---
 At the end of simulation the testbench reports:
 TEST PASSED
 or
 TEST FAILED
 
+
+---
 ## Running the Simulation
 
 Compile and run the simulation using:
