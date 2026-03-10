@@ -102,7 +102,7 @@ gtkwave waves_day4.vcd
 
 
 ---
-##Waveform Result
+## Waveform Result
 
 -The waveform verifies:
 
@@ -118,7 +118,7 @@ gtkwave waves_day4.vcd
 
 
 ---
-##Key Learning Outcomes
+## Key Learning Outcomes
 
 This project demonstrates:
 
